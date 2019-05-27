@@ -1,0 +1,12 @@
+Year,Buy/Sell,Property
+2011,B,32 Bakers Street
+2012,S,Giblet Inc
+2013,B,99 Dread Pirate Lane
+2014,S,Tumbleweed Co
+2015,B,Kalgoorlie mine
+2016,S,32 Bakers Street
+2017,B,Cannington factory
+2017,S,Kalgoorlie mine
+2018,B,32 Bakers Street
+2018,B,Tumbleweed Co
+2019,B,Giblet Inc

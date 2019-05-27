@@ -1,0 +1,16 @@
+Year,Event,Property
+2012,V+,AmazingCorp
+2013,W-,
+2014,V-,Tumbleweed Co
+2015,W+,
+2015,V+,SunnyDays Pools
+2016,V-,99 Dread Pirate Lane
+2017,R-,32 Bakers Street
+2017,W-,
+2017,V+,Tumbleweed Co
+2018,W-,
+2018,V-,Tumbleweed Co
+2018,R-,32 Bakers Street
+2019,W+,
+2019,W+,
+2019,R+,Cannington factory
